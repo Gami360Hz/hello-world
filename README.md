@@ -1,2 +1,1 @@
-# hello-world
-Meu teste básico 
+print("Olá Mundo")
